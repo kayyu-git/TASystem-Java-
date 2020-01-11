@@ -12,7 +12,9 @@ Example output for input parameter of 5 days:
 EMA: 2813.8312261337
 
 px for SP500, 2752.060059, is 3.0385854456467096 std dev below moving average, 2804.5140137999997
+
 MA: 2790.4780275999997
+
 sDev: 24.257589952995964
 - - - - - - - - - - - - - - - -
 Supported stock analysis results: Exponential Moving Average, Moving Average, Standard Deviation
